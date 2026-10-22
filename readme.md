@@ -1,4 +1,4 @@
-# freeCodeCamp
+# FreeCodeCamp
 
 This repository contains my labs and projects completed while working through the freeCodeCamp curriculum.
 
@@ -30,4 +30,6 @@ JavaScript fundamentals, including:
 
 ## Progress
 
-This repository will continue to grow as I work through the freeCodeCamp curriculum.
+This repository will continue to grow as I work through the freeCodeCamp curriculum. 
+
+# Thank you!
